@@ -1,2 +1,2 @@
-# 01-HTML-CSS-Git-Code-Refactor
-This file is the homepage for Horison, contining links to other pages, a large image in the middle of the screen, and then a brief summery of the areas that Horison can help your company with.
+# Code-Refactor
+I removed redundent classes in the code and consolidated the style page so that the code was easier to read and look at. I also fixed a few links that did not work.
